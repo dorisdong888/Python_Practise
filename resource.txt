@@ -1,1 +1,16 @@
 https://github.com/public-apis/public-apis
+
+https://meta.wikimedia.org/wiki/Special:CreateAccount
+
+https://numpy.org/doc/stable/reference/generated/numpy.ones.html
+
+https://dune.com/browse/dashboards
+有很多dashboard可以看到其sql代码
+
+discove.xyz
+
+farcaster.xyz
+https://farcaster.network/
+
+warpcast.com
+https://github.com/a16z/awesome-farcaster
